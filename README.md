@@ -24,4 +24,4 @@ The repository contains three main R scripts, reflecting the subsequent stages o
 * The analysis confirms that the media discourse is governed by a strong emotional conflict: on the one hand, **trust and anticipation** dominate, but on the other, **fear** is almost as strong, which indicates a deeply polarized narrative, torn between faith in the project and the media focus on potential risks.
 
 ## How to run the code (Note)
-To run the R scripts included in this repository, you must have access to the source data that matches the structure used in the study. Due to the aforementioned licensing restrictions, the data files are not publicly available. However, the scripts are fully commented and illustrate the data analysis methodology used.
+To run the R scripts included in this repository, you must have access to the source data that matches the structure used in the study. Due to the aforementioned privacy restrictions, the data files are not publicly available. However, the scripts are fully commented and illustrate the data analysis methodology used.
