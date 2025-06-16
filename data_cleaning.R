@@ -13,7 +13,7 @@ data_raw <- read.csv("file.csv", sep = ",")
 
 #---
 
-# Check the categories in these varaibles
+# Check the categories in these variables
 unique(data_raw$media_type)
 unique(data_raw$country_code)
 unique(data_raw$language)
