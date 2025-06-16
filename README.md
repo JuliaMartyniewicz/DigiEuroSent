@@ -14,8 +14,8 @@ The data used in the analysis comes from the INFOMEDIA platform and includes hea
 ## Repository Structure
 The repository contains three main R scripts, reflecting the subsequent stages of the research process:
 * `data_cleaning.R`: Script responsible for the process of cleaning, transforming and pre-processing the data, preparing it for further sentiment analysis.
-* `headlines_analysis.R`: Script containing code to perform detailed sentiment analysis of media headlines, including identification of time trends, differences between media types and ideological groups.
-* `summaries_analysis.R`: Script dedicated to the analysis of sentiment and emotional tone in article summaries, including comparison of results with headline analysis.
+* `headlines_analysis.R`: Script containing code to perform detailed sentiment analysis of media headlines, including identification of time trends, differences between countries, media types, media sources and ideological groups.
+* `summaries_analysis.R`: Script dedicated to the analysis of sentiment and emotional tone in article summaries, including the same tools for analysis as in the case of headlines.
 
 ## Key Results
 * Overall sentiment towards the digital euro in traditional media is **neutral with a slight positive trend**, showing **significant fluctuations over time**.
@@ -25,3 +25,7 @@ The repository contains three main R scripts, reflecting the subsequent stages o
 
 ## How to run the code (Note)
 To run the R scripts included in this repository, you must have access to the source data that matches the structure used in the study. Due to the aforementioned privacy restrictions, the data files are not publicly available. However, the scripts are fully commented and illustrate the data analysis methodology used.
+
+### Acknowledgements
+I would like to express my gratitude to the European Central Bank for providing access to the INFOMEDIA database, which was the basis for this Master's thesis. Their support enabled me to conduct a detailed analysis of the media sentiment of the digital euro.
+Special thanks to my supervisor, Francisco Villamil, for his valuable advice and inspiring discussions at every stage of the work.
