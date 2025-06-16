@@ -3,7 +3,7 @@
 ## Master's Thesis - Computational Social Science - Universidad Carlos III de Madrid
 
 ## Introduction
-This repository contains the code and supporting documentation for a Master's thesis that aims to provide an in-depth analysis of sentiment and emotional tone in traditional media in the context of the digital euro. This project aims to fill a significant research gap regarding the role of media narratives in shaping public perception and acceptance of this key initiative of the European Central Bank.
+This repository contains the code for a Master's thesis that aims to provide analysis of sentiment and emotional tone in traditional media in the context of the digital euro. This project aims to fill a significant research gap regarding the role of media narratives in shaping public perception and acceptance of this key initiative of the European Central Bank.
 
 ## Research Objective
 The main objective of the thesis was to investigate how the digital euro is portrayed in traditional media in terms of sentiment. Additionally, it analyses the evolution of sentiment over time, differences between countries and dominant emotions in media coverage. A Computational Social Science approach was used, drawing on the theories of Agenda Setting, Framing Theory and Technology Acceptance Model, as well as the interaction between the "supply side" (media) and the "demand side" (public opinion).
